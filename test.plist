@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>http://159.138.42.13:8080/group1/M00/00/39/rBAIA16jPL2ADjSHAUyuzklYQdE458.ipa</string>
+					<string>https://github.com/ferrousmetal/testipa/blob/master/caomei.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
